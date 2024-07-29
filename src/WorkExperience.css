@@ -1,0 +1,43 @@
+.work-experience {
+    padding: 20px;
+    background-color:ffffff;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  
+  .work-experience h2 {
+    
+    margin-bottom: 20px;
+    color: #f5f3f3;
+    margin-left: 19%;
+  }
+  
+  .experience {
+    margin-bottom: 20px;
+    margin-left: 19%;
+  }
+  
+  .experience h3 {
+    margin: 0;
+    color: #ffd60a;
+    
+  }
+  
+  .experience .company {
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  
+  .experience .duration {
+    color: #ffd60a;
+    margin: 5px 0;
+  }
+  
+  .responsibilities {
+    padding-left: 20px;
+  }
+  
+  .responsibilities li {
+    margin-bottom: 10px;
+  }
+  
